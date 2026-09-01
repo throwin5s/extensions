@@ -10194,6 +10194,31 @@
         ]
       },
       {
+        "name": "Comix Self Hosted",
+        "packageName": "eu.kanade.tachiyomi.extension.en.comixselfhosted",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/throwin5s/extensions/repo/apk/tachiyomi-en.comixselfhosted-v1.6.42.apk",
+          "iconUrl": "https://raw.githubusercontent.com/throwin5s/extensions/repo/icon/eu.kanade.tachiyomi.extension.en.comixselfhosted.png",
+          "jarUrl": "https://raw.githubusercontent.com/throwin5s/extensions/repo/jar/tachiyomi-en.comixselfhosted-v1.4.40.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106042",
+        "versionName": "1.6.42",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6607478914210611678",
+            "name": "Comix Self Hosted",
+            "language": "en",
+            "homeUrl": "https://comix.to",
+            "mirrorUrls": [
+              "https://comix.to",
+              "https://comix.ws"
+            ]
+          }
+        ]
+      },
+      {
         "name": "Coolmic",
         "packageName": "eu.kanade.tachiyomi.extension.en.coolmic",
         "resources": {
